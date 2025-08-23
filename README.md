@@ -482,29 +482,126 @@ My academic foundation includes a **Diploma in IT from TAR UMT (2023-2024)** and
 
 ---
 
-## Connect With Me
+<details>
+<summary><h2>🏆 Licenses & Certifications</h2></summary>
+
+<div align="center">
+  
+### **Professional Certifications**
+
+<table style="width: 100%; border: none;">
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <div style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); border-radius: 15px; padding: 20px; border: 2px solid #404040;">
+        <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+        <h3 style="color: #58a6ff; margin: 15px 0 10px 0;">CCNA: Introduction to Networks</h3>
+        <p><strong>Issuing Organization:</strong> Cisco</p>
+        <p><strong>Issued:</strong> June 2025</p>
+        <div style="margin: 15px 0;">
+          <img src="https://img.shields.io/badge/Show_Credential-0077B5?style=for-the-badge&logo=external-link&logoColor=white" alt="Show Credential" />
+        </div>
+        <p><strong>Skills Acquired:</strong></p>
+        <p>
+          <code>Networking</code> • 
+          <code>Strategic Communications</code> • 
+          <code>Financial Analysis</code>
+        </p>
+      </div>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <div style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); border-radius: 15px; padding: 20px; border: 2px solid #404040;">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+        <h3 style="color: #39d353; margin: 15px 0 10px 0;">AWS Academy Graduate - AWS Academy Cloud Foundations</h3>
+        <p><strong>Issuing Organization:</strong> Amazon Web Services (AWS)</p>
+        <p><strong>Issued:</strong> May 2025</p>
+        <div style="margin: 15px 0;">
+          <img src="https://img.shields.io/badge/Show_Credential-FF9900?style=for-the-badge&logo=external-link&logoColor=white" alt="Show Credential" />
+        </div>
+        <p><strong>Skills Acquired:</strong></p>
+        <p>
+          <code>Amazon Web Services (AWS)</code> • 
+          <code>Cloud Computing</code> • 
+          <code>Strategic Planning</code>
+        </p>
+      </div>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <div style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); border-radius: 15px; padding: 20px; border: 2px solid #404040;">
+        <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+        <h3 style="color: #d2a8ff; margin: 15px 0 10px 0;">Introduction to Cybersecurity</h3>
+        <p><strong>Issuing Organization:</strong> Cisco</p>
+        <p><strong>Issued:</strong> August 2024</p>
+        <div style="margin: 15px 0;">
+          <img src="https://img.shields.io/badge/Show_Credential-0077B5?style=for-the-badge&logo=external-link&logoColor=white" alt="Show Credential" />
+        </div>
+        <p><strong>Skills Acquired:</strong></p>
+        <p>
+          <code>Cybersecurity</code> • 
+          <code>Self-Directed Learning</code>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+### **Certification Timeline**
+
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2024-Introduction_to_Cybersecurity-FF6B35?style=for-the-badge&logo=cisco&logoColor=white" alt="2024" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2025-AWS_Cloud_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="2025" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2025-CCNA_Introduction-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="2025" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+### **Skills Summary**
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.linkedin.com/in/cho-sin-hong-9139a3378">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
+        <img src="https://img.shields.io/badge/Networking-Expert-58a6ff?style=for-the-badge&logo=network-wired&logoColor=white" />
       </td>
       <td align="center">
-        <a href="https://www.instagram.com/howellcho/">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-        </a>
+        <img src="https://img.shields.io/badge/Cloud_Computing-Proficient-39d353?style=for-the-badge&logo=cloud&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Cybersecurity-Certified-d2a8ff?style=for-the-badge&logo=shield-alt&logoColor=white" />
       </td>
       <td align="center">
-        <a href="mailto:howell.cho319@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
+        <img src="https://img.shields.io/badge/Strategic_Planning-Advanced-ffa657?style=for-the-badge&logo=strategy&logoColor=white" />
       </td>
     </tr>
   </table>
 </div>
+
+<div align="center" style="margin-top: 20px; color: #888; font-style: italic;">
+🎓 Professional certifications demonstrating expertise in networking, cloud computing, and cybersecurity
+</div>
+
+</div>
+
+</details>
 
 ---
 
