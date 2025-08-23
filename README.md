@@ -11,7 +11,7 @@
 
 ## About Me
 
-I am a passionate Software Engineering student currently pursuing my **BSc (Hons) in Software Engineering** at APU/DMU, graduating in June 2025. Based in Klang, Selangor, I specialize in AI-powered solutions and cloud computing architectures.
+I am a passionate Software Engineering student currently pursuing my **BSc (Hons) in Software Engineering** at APU/DMU, graduating in June 2025. Based in Bukit Jalil, I specialize in AI-powered solutions and cloud computing architectures.
 
 Currently working as a **Full-time AI Researcher at a Top 30 prestigious university**, where I focus on advancing artificial intelligence research and developing innovative AI solutions. Previously completed an **AI Software Internship at Aonic Sdn. Bhd.**, where I developed cutting-edge computer vision systems for automated oil palm tree detection in aerial imagery, built robust ML pipelines, dataset validation tools, and semi-automated training systems that enhance detection accuracy and streamline workflow efficiency.
 
@@ -39,6 +39,10 @@ My academic foundation includes a **Diploma in IT from TAR UMT (2023-2024)** and
   <tr>
     <td><strong>📧 Contact</strong></td>
     <td>howell.cho319@gmail.com</td>
+  </tr>
+  <tr>
+    <td><strong>📧 University</strong></td>
+    <td>TP097829@mail.apu.edu.my</td>
   </tr>
 </table>
 
