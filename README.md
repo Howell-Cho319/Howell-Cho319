@@ -22,7 +22,7 @@ My academic foundation includes a **Diploma in IT from TAR UMT (2023-2024)** and
 <table>
   <tr>
     <td><strong>📍 Location</strong></td>
-    <td>Klang, Selangor, Malaysia</td>
+    <td>Kuala Lumpur, Malaysia</td>
   </tr>
   <tr>
     <td><strong>🎓 Education</strong></td>
