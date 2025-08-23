@@ -34,7 +34,7 @@ My academic foundation includes a **Diploma in IT from TAR UMT (2023-2024)** and
   </tr>
   <tr>
     <td><strong>🌐 Languages</strong></td>
-    <td>English, Chinese, Bahasa Melayu, Hokkien, Cantonese</td>
+    <td>English, Chinese, Bahasa Melayu, Hokkien, Cantonese , Japanese , Hakka Chinese</td>
   </tr>
   <tr>
     <td><strong>📧 Contact</strong></td>
